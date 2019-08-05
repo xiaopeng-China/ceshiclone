@@ -29,7 +29,6 @@ Settings ->
 > git remote -v    查看本地仓库和哪些远程仓库保持链接
 > git remote add origin [git仓库地址]    让本地仓库和远程仓库新建一个链接 origin是随便起的一个链接名（可以改成自己想要的，只不过一般都用这个名字）
 > git remote rm origin    删除关联信息
-> 
 > 提交之前最好先拉取
 > git pull origin master
 > 把本地代码提交到远程仓库（需要输入github的用户名密码）
